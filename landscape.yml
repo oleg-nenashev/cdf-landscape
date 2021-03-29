@@ -44,6 +44,14 @@ landscape:
             logo: harness.svg
             crunchbase: https://www.crunchbase.com/organization/harness-512d
           - item:
+            name: Jenkins
+            homepage_url: https://jenkins.io/
+            project: graduated
+            repo_url: https://github.com/jenkinsci/jenkins
+            logo: jenkins.svg
+            twitter: https://twitter.com/jenkinsci
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
+          - item:
             name: JenkinsX
             homepage_url: https://jenkins.io/
             project: graduated
@@ -97,14 +105,6 @@ landscape:
             repo_url: https://github.com/drone/drone
             logo: drone.svg
             crunchbase: https://www.crunchbase.com/organization/drone-io
-          - item:
-            name: Jenkins
-            homepage_url: https://jenkins.io/
-            project: graduated
-            repo_url: https://github.com/jenkinsci/jenkins
-            logo: jenkins.svg
-            twitter: https://twitter.com/jenkinsci
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Travis CI
             homepage_url: https://travis-ci.org/
